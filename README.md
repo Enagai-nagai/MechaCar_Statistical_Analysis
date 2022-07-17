@@ -21,3 +21,13 @@ The design specifications for the MechaCar suspension coils dictate that the var
 * Even though we cannot say about the compliance of manufacturing design specification, we can clearly see that the variance (and of course the standard deviation) of Lot 3 is much bigger than that of other lots and there is likely to be something wrong in Lot 3.
 * Besides, the mean and the median of Lot 3 are lower than 1500.
 * This observation suggests to check the operation where Lot 3 is manufactured and solve the issues causing a big variance.
+
+## T-Tests on Suspension Coils
+then briefly summarize your interpretation and findings for the t-test results. Include screenshots of the t-test to support your summary.
+### Results
+![image](https://user-images.githubusercontent.com/99149443/179403962-2dcdc864-5476-42b3-9a3b-08fe53c080c3.png)
+
+### Summary
+* According to the t-tests done for the total sample and each sample, there is no statistical difference between the population mean and the total sample/Lot1, Lot2 as their p-values are bigger than 0.05 so any difference of the mean between the population and these samples can be considered as random.
+* On contrary, there is a statistical difference between the population and Lot3 samples as its p-value is 0.04, which is smaller than 0.05.
+
