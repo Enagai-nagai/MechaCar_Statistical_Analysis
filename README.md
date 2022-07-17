@@ -31,3 +31,10 @@ then briefly summarize your interpretation and findings for the t-test results. 
 * According to the t-tests done for the total sample and each sample, there is no statistical difference between the population mean and the total sample/Lot1, Lot2 as their p-values are bigger than 0.05 so any difference of the mean between the population and these samples can be considered as random.
 * On contrary, there is a statistical difference between the population and Lot3 samples as its p-value is 0.04, which is smaller than 0.05.
 
+## Study Design: MechaCar vs Competition
+Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
+In your description, address the following questions:
+What metric or metrics are you going to test?
+What is the null hypothesis or alternative hypothesis?
+What statistical test would you use to test the hypothesis? And why?
+What data is needed to run the statistical test?
