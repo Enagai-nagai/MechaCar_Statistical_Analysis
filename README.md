@@ -32,9 +32,8 @@ then briefly summarize your interpretation and findings for the t-test results. 
 * On contrary, there is a statistical difference between the population and Lot3 samples as its p-value is 0.04, which is smaller than 0.05.
 
 ## Study Design: MechaCar vs Competition
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
+* We can model a multiple regression where the number of sales/ amount of sales is dependent variable and other factors (cost, fuel efficiency, horse power, maintainance cost, and safety rating) are independent variables.
+* Based on the result, we can see which factors affect the most the sales and which factors don't have much impact on the sales.
+* Thus, MechaCar can know what its priority is to promote sales number.
+* In this case, the null hypothesis is that the slope of the linear model is 0 and the alternative hypothesis is that the slope is not 0.
+* We need the data of the amount/number of sales, cost, fuel efficiency, horse power, maintainance cost, and safty ratings of our own company and each competitors.
